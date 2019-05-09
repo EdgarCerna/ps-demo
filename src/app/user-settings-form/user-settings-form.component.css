@@ -1,0 +1,6 @@
+input:required {
+    box-shadow: 0 0 3px white;
+}
+.field-error {
+    border: 1px solid red;
+}
